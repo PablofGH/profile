@@ -10,6 +10,7 @@
 <p align="center">
     <a href="https://github.com/PablofGH/profile2" target="blank" style="margin-right: 4px">
         <img align="center" src="https://cdn-icons-png.flaticon.com/512/2089/2089678.png" alt="siguiente" height="28px" width="28px"
+             <br />
 <p align="center">
     <a href="https://discord.gg/KtsAbnq7vD" target="blank" style="margin-right: 4px">
         <img align="center" src="https://simpleicons.org/icons/discord.svg" alt="Bot Tester" height="28px" width="28px">
