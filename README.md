@@ -2,11 +2,15 @@
 
 ---
 
-### 📈 Lo que me gusta aprender
-- 📌 La programación web
-- 📍 Aprender nuevas tecnologías
-- 🎉 Aprender nuevos lenguajes 
-
+###
+<p align="center">Soy un estudiante de<strong> Desarrollo Web y Programación</strong> <br />¡Estas son mis redes sociales!</p>
+<p align="center">
+    <a href="" target="blank" style="margin-right: 4px">
+        <img align="center" src="https://simpleicons.org/icons/discord.svg" alt="A Pandilla do Chipiron" height="28px" width="28px">
+    <a href="https://www.instagram.com/_pablof/" target="blank" style="margin-right: 4px">
+        <img align="center" src="https://simpleicons.org/icons/instagram.svg" alt="_pablof" height="28px" width="28px">
+    </a>
+</p>
 ---
 
 ### 💻 Lenguajes que estoy aprendiendo
