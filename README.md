@@ -6,7 +6,7 @@
 <p align="center">Para mas información <br />Estas son mis redes sociales</p>
 <p align="center">
     <a href="https://discord.gg/KtsAbnq7vD" target="blank" style="margin-right: 4px">
-        <img align="center" src="https://simpleicons.org/icons/discord.svg" alt="A Pandilla do Chipiron" height="28px" width="28px">
+        <img align="center" src="https://simpleicons.org/icons/discord.svg" alt="Bot Tester" height="28px" width="28px">
     <a href="https://www.instagram.com/_pablof/" target="blank" style="margin-right: 4px">
         <img align="center" src="https://simpleicons.org/icons/instagram.svg" alt="_pablof" height="28px" width="28px">
     </a>
