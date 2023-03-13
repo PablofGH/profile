@@ -6,7 +6,10 @@
 ### <p align="center"><strong>¡Hola soy Pablo , un gusto!</strong></p>
 ### <p><i>Sobre mi</i></p>
 <p>Soy un chico impaciente y con entusiasmop de aprender lenguagues de programación para poder crea diversas herramientas y proyectos con ellos , actualmente estoy aprendiendo <strong>html y css</strong>, despues de eso me gustaria aprender <strong>JavaScript</strong> para futuros proyectos como BOTs y otras cosas </p>
-<p align="center">Para mas información <br />Estas son mis redes sociales<br /><a href=¨https://github.com/PablofGH/profile2>HAZ CLIC AQUI</a></p>
+<p align="center">Para mas información <br />Estas son mis redes sociales</p>
+<p align="center">
+    <a href="https://github.com/PablofGH/profile2" target="blank" style="margin-right: 4px">
+        <img align="center" src="https://cdn-icons-png.flaticon.com/512/2089/2089678.png" alt="siguiente" height="28px" width="28px"
 <p align="center">
     <a href="https://discord.gg/KtsAbnq7vD" target="blank" style="margin-right: 4px">
         <img align="center" src="https://simpleicons.org/icons/discord.svg" alt="Bot Tester" height="28px" width="28px">
